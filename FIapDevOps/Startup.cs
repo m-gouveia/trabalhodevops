@@ -51,7 +51,7 @@ namespace FIapDevOps
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=TBALUNO}/{action=Index}/{id?}");
             });
         }
     }

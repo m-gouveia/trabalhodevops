@@ -1,27 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marcu\\source\\repos\\FIapDevOps\\FIapDevOps\\FIapDevOps.csproj": {}
+    "C:\\Users\\marly\\Documents\\Visual Studio 2019\\Projects\\FIapDevOps\\FIapDevOps\\FIapDevOps.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marcu\\source\\repos\\FIapDevOps\\FIapDevOps\\FIapDevOps.csproj": {
+    "C:\\Users\\marly\\Documents\\Visual Studio 2019\\Projects\\FIapDevOps\\FIapDevOps\\FIapDevOps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marcu\\source\\repos\\FIapDevOps\\FIapDevOps\\FIapDevOps.csproj",
+        "projectUniqueName": "C:\\Users\\marly\\Documents\\Visual Studio 2019\\Projects\\FIapDevOps\\FIapDevOps\\FIapDevOps.csproj",
         "projectName": "FIapDevOps",
-        "projectPath": "C:\\Users\\marcu\\source\\repos\\FIapDevOps\\FIapDevOps\\FIapDevOps.csproj",
-        "packagesPath": "C:\\Users\\marcu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marcu\\source\\repos\\FIapDevOps\\FIapDevOps\\obj\\",
+        "projectPath": "C:\\Users\\marly\\Documents\\Visual Studio 2019\\Projects\\FIapDevOps\\FIapDevOps\\FIapDevOps.csproj",
+        "packagesPath": "C:\\Users\\marly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marly\\Documents\\Visual Studio 2019\\Projects\\FIapDevOps\\FIapDevOps\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\marcu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\marly\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -89,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

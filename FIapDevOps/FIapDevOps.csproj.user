@@ -15,5 +15,6 @@
     <WebStackScaffolding_DbContextTypeFullName>FIapDevOps.Data.FIapDevOpsContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>FIapDevOps-dev-as - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
