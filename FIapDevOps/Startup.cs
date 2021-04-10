@@ -8,9 +8,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using FIapDevOps.Data;
+using FiapDevOps.Data;
 
-namespace FIapDevOps
+namespace FiapDevOps
 {
     public class Startup
     {
@@ -26,8 +26,8 @@ namespace FIapDevOps
         {
             services.AddControllersWithViews();
 
-            services.AddDbContext<FIapDevOpsContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("FIapDevOpsContext")));
+            services.AddDbContext<FiapDevOpsContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("FiapDevOpsContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

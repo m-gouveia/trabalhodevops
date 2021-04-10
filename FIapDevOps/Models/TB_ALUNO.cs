@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace FIapDevOps.Models
+namespace FiapDevOps.Models
 {
     [Table("TB_ALUNO")] // tblOrders table in App namespace
     public class TB_ALUNO

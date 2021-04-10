@@ -3,17 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using FIapDevOps.Models;
+using FiapDevOps.Models;
 
-namespace FIapDevOps.Data
+namespace FiapDevOps.Data
 {
-    public class FIapDevOpsContext : DbContext
+    public class FiapDevOpsContext : DbContext
     {
-        public FIapDevOpsContext (DbContextOptions<FIapDevOpsContext> options)
+        public FiapDevOpsContext (DbContextOptions<FiapDevOpsContext> options)
             : base(options)
         {
         }
 
-        public DbSet<FIapDevOps.Models.TB_ALUNO> AlunoViewModel { get; set; }
+        public DbSet<FiapDevOps.Models.TB_ALUNO> AlunoViewModel { get; set; }
     }
 }

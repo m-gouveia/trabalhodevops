@@ -5,16 +5,16 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using FIapDevOps.Data;
-using FIapDevOps.Models;
+using FiapDevOps.Data;
+using FiapDevOps.Models;
 
-namespace FIapDevOps.Controllers
+namespace FiapDevOps.Controllers
 {
     public class TBALUNOController : Controller
     {
-        private readonly FIapDevOpsContext _context;
+        private readonly FiapDevOpsContext _context;
 
-        public TBALUNOController(FIapDevOpsContext context)
+        public TBALUNOController(FiapDevOpsContext context)
         {
             _context = context;
         }

@@ -1,6 +1,6 @@
 using System;
 
-namespace FIapDevOps.Models
+namespace FiapDevOps.Models
 {
     public class ErrorViewModel
     {

@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "FIapDevOps": {
+    "FiapDevOps": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
